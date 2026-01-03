@@ -1,0 +1,201 @@
+device_id,device_name,owner,city,province,lat,lon,compliance,battery,os_version,device_type,last_seen,risk_level
+MDM-001,Device-001,Sales,Bandung,Jawa Barat,-6.907500000000001,107.62910000000001,Warning,21,Android 12,Phone,15m,Medium
+MDM-002,Device-002,Warehouse,Surabaya,Jawa Timur,-7.237500000000001,112.7721,Non-Compliant,22,Android 13,Tablet,30m,High
+MDM-003,Device-003,Store,Medan,Sumatera Utara,-3.5652000000000004,98.7022,Compliant,23,Android 14,Phone,45m,Low
+MDM-004,Device-004,Sales,Makassar,Sulawesi Selatan,-5.1077,119.4727,Warning,24,Android 11,Tablet,60m,Medium
+MDM-005,Device-005,Warehouse,Semarang,Jawa Tengah,-6.9667,110.4167,Non-Compliant,25,Android 12,Phone,0m,High
+MDM-006,Device-006,Store,Palembang,Sumatera Selatan,-2.9809,104.76660000000001,Compliant,26,Android 13,Tablet,15m,Low
+MDM-007,Device-007,Sales,Denpasar,Bali,-8.650500000000001,115.23259999999999,Warning,27,Android 14,Phone,30m,Medium
+MDM-008,Device-008,Warehouse,Balikpapan,Kalimantan Timur,-1.2354,116.8612,Non-Compliant,28,Android 11,Tablet,45m,High
+MDM-009,Device-009,Store,Manado,Sulawesi Utara,1.5148000000000001,124.88210000000001,Compliant,29,Android 12,Phone,60m,Low
+MDM-010,Device-010,Sales,Jakarta,DKI Jakarta,-6.1754,106.8272,Warning,30,Android 13,Tablet,0m,Medium
+MDM-011,Device-011,Warehouse,Bandung,Jawa Barat,-6.907500000000001,107.62910000000001,Non-Compliant,31,Android 14,Phone,15m,High
+MDM-012,Device-012,Store,Surabaya,Jawa Timur,-7.237500000000001,112.7721,Compliant,32,Android 11,Tablet,30m,Low
+MDM-013,Device-013,Sales,Medan,Sumatera Utara,-3.5652000000000004,98.7022,Warning,33,Android 12,Phone,45m,Medium
+MDM-014,Device-014,Warehouse,Makassar,Sulawesi Selatan,-5.1077,119.4727,Non-Compliant,34,Android 13,Tablet,60m,High
+MDM-015,Device-015,Store,Semarang,Jawa Tengah,-6.9667,110.4167,Compliant,35,Android 14,Phone,0m,Low
+MDM-016,Device-016,Sales,Palembang,Sumatera Selatan,-2.9809,104.76660000000001,Warning,36,Android 11,Tablet,15m,Medium
+MDM-017,Device-017,Warehouse,Denpasar,Bali,-8.650500000000001,115.23259999999999,Non-Compliant,37,Android 12,Phone,30m,High
+MDM-018,Device-018,Store,Balikpapan,Kalimantan Timur,-1.2354,116.8612,Compliant,38,Android 13,Tablet,45m,Low
+MDM-019,Device-019,Sales,Manado,Sulawesi Utara,1.5148000000000001,124.88210000000001,Warning,39,Android 14,Phone,60m,Medium
+MDM-020,Device-020,Warehouse,Jakarta,DKI Jakarta,-6.1754,106.8272,Non-Compliant,40,Android 11,Tablet,0m,High
+MDM-021,Device-021,Store,Bandung,Jawa Barat,-6.907500000000001,107.62910000000001,Compliant,41,Android 12,Phone,15m,Low
+MDM-022,Device-022,Sales,Surabaya,Jawa Timur,-7.237500000000001,112.7721,Warning,42,Android 13,Tablet,30m,Medium
+MDM-023,Device-023,Warehouse,Medan,Sumatera Utara,-3.5652000000000004,98.7022,Non-Compliant,43,Android 14,Phone,45m,High
+MDM-024,Device-024,Store,Makassar,Sulawesi Selatan,-5.1077,119.4727,Compliant,44,Android 11,Tablet,60m,Low
+MDM-025,Device-025,Sales,Semarang,Jawa Tengah,-6.9667,110.4167,Warning,45,Android 12,Phone,0m,Medium
+MDM-026,Device-026,Warehouse,Palembang,Sumatera Selatan,-2.9809,104.76660000000001,Non-Compliant,46,Android 13,Tablet,15m,High
+MDM-027,Device-027,Store,Denpasar,Bali,-8.650500000000001,115.23259999999999,Compliant,47,Android 14,Phone,30m,Low
+MDM-028,Device-028,Sales,Balikpapan,Kalimantan Timur,-1.2354,116.8612,Warning,48,Android 11,Tablet,45m,Medium
+MDM-029,Device-029,Warehouse,Manado,Sulawesi Utara,1.5148000000000001,124.88210000000001,Non-Compliant,49,Android 12,Phone,60m,High
+MDM-030,Device-030,Store,Jakarta,DKI Jakarta,-6.1754,106.8272,Compliant,50,Android 13,Tablet,0m,Low
+MDM-031,Device-031,Sales,Bandung,Jawa Barat,-6.907500000000001,107.62910000000001,Warning,51,Android 14,Phone,15m,Medium
+MDM-032,Device-032,Warehouse,Surabaya,Jawa Timur,-7.237500000000001,112.7721,Non-Compliant,52,Android 11,Tablet,30m,High
+MDM-033,Device-033,Store,Medan,Sumatera Utara,-3.5652000000000004,98.7022,Compliant,53,Android 12,Phone,45m,Low
+MDM-034,Device-034,Sales,Makassar,Sulawesi Selatan,-5.1077,119.4727,Warning,54,Android 13,Tablet,60m,Medium
+MDM-035,Device-035,Warehouse,Semarang,Jawa Tengah,-6.9667,110.4167,Non-Compliant,55,Android 14,Phone,0m,High
+MDM-036,Device-036,Store,Palembang,Sumatera Selatan,-2.9809,104.76660000000001,Compliant,56,Android 11,Tablet,15m,Low
+MDM-037,Device-037,Sales,Denpasar,Bali,-8.650500000000001,115.23259999999999,Warning,57,Android 12,Phone,30m,Medium
+MDM-038,Device-038,Warehouse,Balikpapan,Kalimantan Timur,-1.2354,116.8612,Non-Compliant,58,Android 13,Tablet,45m,High
+MDM-039,Device-039,Store,Manado,Sulawesi Utara,1.5148000000000001,124.88210000000001,Compliant,59,Android 14,Phone,60m,Low
+MDM-040,Device-040,Sales,Jakarta,DKI Jakarta,-6.1754,106.8272,Warning,60,Android 11,Tablet,0m,Medium
+MDM-041,Device-041,Warehouse,Bandung,Jawa Barat,-6.907500000000001,107.62910000000001,Non-Compliant,61,Android 12,Phone,15m,High
+MDM-042,Device-042,Store,Surabaya,Jawa Timur,-7.237500000000001,112.7721,Compliant,62,Android 13,Tablet,30m,Low
+MDM-043,Device-043,Sales,Medan,Sumatera Utara,-3.5652000000000004,98.7022,Warning,63,Android 14,Phone,45m,Medium
+MDM-044,Device-044,Warehouse,Makassar,Sulawesi Selatan,-5.1077,119.4727,Non-Compliant,64,Android 11,Tablet,60m,High
+MDM-045,Device-045,Store,Semarang,Jawa Tengah,-6.9667,110.4167,Compliant,65,Android 12,Phone,0m,Low
+MDM-046,Device-046,Sales,Palembang,Sumatera Selatan,-2.9809,104.76660000000001,Warning,66,Android 13,Tablet,15m,Medium
+MDM-047,Device-047,Warehouse,Denpasar,Bali,-8.650500000000001,115.23259999999999,Non-Compliant,67,Android 14,Phone,30m,High
+MDM-048,Device-048,Store,Balikpapan,Kalimantan Timur,-1.2354,116.8612,Compliant,68,Android 11,Tablet,45m,Low
+MDM-049,Device-049,Sales,Manado,Sulawesi Utara,1.5148000000000001,124.88210000000001,Warning,69,Android 12,Phone,60m,Medium
+MDM-050,Device-050,Warehouse,Jakarta,DKI Jakarta,-6.1754,106.8272,Non-Compliant,70,Android 13,Tablet,0m,High
+MDM-051,Device-051,Store,Bandung,Jawa Barat,-6.907500000000001,107.62910000000001,Compliant,71,Android 14,Phone,15m,Low
+MDM-052,Device-052,Sales,Surabaya,Jawa Timur,-7.237500000000001,112.7721,Warning,72,Android 11,Tablet,30m,Medium
+MDM-053,Device-053,Warehouse,Medan,Sumatera Utara,-3.5652000000000004,98.7022,Non-Compliant,73,Android 12,Phone,45m,High
+MDM-054,Device-054,Store,Makassar,Sulawesi Selatan,-5.1077,119.4727,Compliant,74,Android 13,Tablet,60m,Low
+MDM-055,Device-055,Sales,Semarang,Jawa Tengah,-6.9667,110.4167,Warning,75,Android 14,Phone,0m,Medium
+MDM-056,Device-056,Warehouse,Palembang,Sumatera Selatan,-2.9809,104.76660000000001,Non-Compliant,76,Android 11,Tablet,15m,High
+MDM-057,Device-057,Store,Denpasar,Bali,-8.650500000000001,115.23259999999999,Compliant,77,Android 12,Phone,30m,Low
+MDM-058,Device-058,Sales,Balikpapan,Kalimantan Timur,-1.2354,116.8612,Warning,78,Android 13,Tablet,45m,Medium
+MDM-059,Device-059,Warehouse,Manado,Sulawesi Utara,1.5148000000000001,124.88210000000001,Non-Compliant,79,Android 14,Phone,60m,High
+MDM-060,Device-060,Store,Jakarta,DKI Jakarta,-6.1754,106.8272,Compliant,80,Android 11,Tablet,0m,Low
+MDM-061,Device-061,Sales,Bandung,Jawa Barat,-6.907500000000001,107.62910000000001,Warning,81,Android 12,Phone,15m,Medium
+MDM-062,Device-062,Warehouse,Surabaya,Jawa Timur,-7.237500000000001,112.7721,Non-Compliant,82,Android 13,Tablet,30m,High
+MDM-063,Device-063,Store,Medan,Sumatera Utara,-3.5652000000000004,98.7022,Compliant,83,Android 14,Phone,45m,Low
+MDM-064,Device-064,Sales,Makassar,Sulawesi Selatan,-5.1077,119.4727,Warning,84,Android 11,Tablet,60m,Medium
+MDM-065,Device-065,Warehouse,Semarang,Jawa Tengah,-6.9667,110.4167,Non-Compliant,85,Android 12,Phone,0m,High
+MDM-066,Device-066,Store,Palembang,Sumatera Selatan,-2.9809,104.76660000000001,Compliant,86,Android 13,Tablet,15m,Low
+MDM-067,Device-067,Sales,Denpasar,Bali,-8.650500000000001,115.23259999999999,Warning,87,Android 14,Phone,30m,Medium
+MDM-068,Device-068,Warehouse,Balikpapan,Kalimantan Timur,-1.2354,116.8612,Non-Compliant,88,Android 11,Tablet,45m,High
+MDM-069,Device-069,Store,Manado,Sulawesi Utara,1.5148000000000001,124.88210000000001,Compliant,89,Android 12,Phone,60m,Low
+MDM-070,Device-070,Sales,Jakarta,DKI Jakarta,-6.1754,106.8272,Warning,90,Android 13,Tablet,0m,Medium
+MDM-071,Device-071,Warehouse,Bandung,Jawa Barat,-6.907500000000001,107.62910000000001,Non-Compliant,91,Android 14,Phone,15m,High
+MDM-072,Device-072,Store,Surabaya,Jawa Timur,-7.237500000000001,112.7721,Compliant,92,Android 11,Tablet,30m,Low
+MDM-073,Device-073,Sales,Medan,Sumatera Utara,-3.5652000000000004,98.7022,Warning,93,Android 12,Phone,45m,Medium
+MDM-074,Device-074,Warehouse,Makassar,Sulawesi Selatan,-5.1077,119.4727,Non-Compliant,94,Android 13,Tablet,60m,High
+MDM-075,Device-075,Store,Semarang,Jawa Tengah,-6.9667,110.4167,Compliant,95,Android 14,Phone,0m,Low
+MDM-076,Device-076,Sales,Palembang,Sumatera Selatan,-2.9809,104.76660000000001,Warning,96,Android 11,Tablet,15m,Medium
+MDM-077,Device-077,Warehouse,Denpasar,Bali,-8.650500000000001,115.23259999999999,Non-Compliant,97,Android 12,Phone,30m,High
+MDM-078,Device-078,Store,Balikpapan,Kalimantan Timur,-1.2354,116.8612,Compliant,98,Android 13,Tablet,45m,Low
+MDM-079,Device-079,Sales,Manado,Sulawesi Utara,1.5148000000000001,124.88210000000001,Warning,99,Android 14,Phone,60m,Medium
+MDM-080,Device-080,Warehouse,Jakarta,DKI Jakarta,-6.1754,106.8272,Non-Compliant,20,Android 11,Tablet,0m,High
+MDM-081,Device-081,Store,Bandung,Jawa Barat,-6.907500000000001,107.62910000000001,Compliant,21,Android 12,Phone,15m,Low
+MDM-082,Device-082,Sales,Surabaya,Jawa Timur,-7.237500000000001,112.7721,Warning,22,Android 13,Tablet,30m,Medium
+MDM-083,Device-083,Warehouse,Medan,Sumatera Utara,-3.5652000000000004,98.7022,Non-Compliant,23,Android 14,Phone,45m,High
+MDM-084,Device-084,Store,Makassar,Sulawesi Selatan,-5.1077,119.4727,Compliant,24,Android 11,Tablet,60m,Low
+MDM-085,Device-085,Sales,Semarang,Jawa Tengah,-6.9667,110.4167,Warning,25,Android 12,Phone,0m,Medium
+MDM-086,Device-086,Warehouse,Palembang,Sumatera Selatan,-2.9809,104.76660000000001,Non-Compliant,26,Android 13,Tablet,15m,High
+MDM-087,Device-087,Store,Denpasar,Bali,-8.650500000000001,115.23259999999999,Compliant,27,Android 14,Phone,30m,Low
+MDM-088,Device-088,Sales,Balikpapan,Kalimantan Timur,-1.2354,116.8612,Warning,28,Android 11,Tablet,45m,Medium
+MDM-089,Device-089,Warehouse,Manado,Sulawesi Utara,1.5148000000000001,124.88210000000001,Non-Compliant,29,Android 12,Phone,60m,High
+MDM-090,Device-090,Store,Jakarta,DKI Jakarta,-6.1754,106.8272,Compliant,30,Android 13,Tablet,0m,Low
+MDM-091,Device-091,Sales,Bandung,Jawa Barat,-6.907500000000001,107.62910000000001,Warning,31,Android 14,Phone,15m,Medium
+MDM-092,Device-092,Warehouse,Surabaya,Jawa Timur,-7.237500000000001,112.7721,Non-Compliant,32,Android 11,Tablet,30m,High
+MDM-093,Device-093,Store,Medan,Sumatera Utara,-3.5652000000000004,98.7022,Compliant,33,Android 12,Phone,45m,Low
+MDM-094,Device-094,Sales,Makassar,Sulawesi Selatan,-5.1077,119.4727,Warning,34,Android 13,Tablet,60m,Medium
+MDM-095,Device-095,Warehouse,Semarang,Jawa Tengah,-6.9667,110.4167,Non-Compliant,35,Android 14,Phone,0m,High
+MDM-096,Device-096,Store,Palembang,Sumatera Selatan,-2.9809,104.76660000000001,Compliant,36,Android 11,Tablet,15m,Low
+MDM-097,Device-097,Sales,Denpasar,Bali,-8.650500000000001,115.23259999999999,Warning,37,Android 12,Phone,30m,Medium
+MDM-098,Device-098,Warehouse,Balikpapan,Kalimantan Timur,-1.2354,116.8612,Non-Compliant,38,Android 13,Tablet,45m,High
+MDM-099,Device-099,Store,Manado,Sulawesi Utara,1.5148000000000001,124.88210000000001,Compliant,39,Android 14,Phone,60m,Low
+MDM-100,Device-100,Sales,Jakarta,DKI Jakarta,-6.1754,106.8272,Warning,40,Android 11,Tablet,0m,Medium
+MDM-101,Device-101,Warehouse,Bandung,Jawa Barat,-6.907500000000001,107.62910000000001,Non-Compliant,41,Android 12,Phone,15m,High
+MDM-102,Device-102,Store,Surabaya,Jawa Timur,-7.237500000000001,112.7721,Compliant,42,Android 13,Tablet,30m,Low
+MDM-103,Device-103,Sales,Medan,Sumatera Utara,-3.5652000000000004,98.7022,Warning,43,Android 14,Phone,45m,Medium
+MDM-104,Device-104,Warehouse,Makassar,Sulawesi Selatan,-5.1077,119.4727,Non-Compliant,44,Android 11,Tablet,60m,High
+MDM-105,Device-105,Store,Semarang,Jawa Tengah,-6.9667,110.4167,Compliant,45,Android 12,Phone,0m,Low
+MDM-106,Device-106,Sales,Palembang,Sumatera Selatan,-2.9809,104.76660000000001,Warning,46,Android 13,Tablet,15m,Medium
+MDM-107,Device-107,Warehouse,Denpasar,Bali,-8.650500000000001,115.23259999999999,Non-Compliant,47,Android 14,Phone,30m,High
+MDM-108,Device-108,Store,Balikpapan,Kalimantan Timur,-1.2354,116.8612,Compliant,48,Android 11,Tablet,45m,Low
+MDM-109,Device-109,Sales,Manado,Sulawesi Utara,1.5148000000000001,124.88210000000001,Warning,49,Android 12,Phone,60m,Medium
+MDM-110,Device-110,Warehouse,Jakarta,DKI Jakarta,-6.1754,106.8272,Non-Compliant,50,Android 13,Tablet,0m,High
+MDM-111,Device-111,Store,Bandung,Jawa Barat,-6.907500000000001,107.62910000000001,Compliant,51,Android 14,Phone,15m,Low
+MDM-112,Device-112,Sales,Surabaya,Jawa Timur,-7.237500000000001,112.7721,Warning,52,Android 11,Tablet,30m,Medium
+MDM-113,Device-113,Warehouse,Medan,Sumatera Utara,-3.5652000000000004,98.7022,Non-Compliant,53,Android 12,Phone,45m,High
+MDM-114,Device-114,Store,Makassar,Sulawesi Selatan,-5.1077,119.4727,Compliant,54,Android 13,Tablet,60m,Low
+MDM-115,Device-115,Sales,Semarang,Jawa Tengah,-6.9667,110.4167,Warning,55,Android 14,Phone,0m,Medium
+MDM-116,Device-116,Warehouse,Palembang,Sumatera Selatan,-2.9809,104.76660000000001,Non-Compliant,56,Android 11,Tablet,15m,High
+MDM-117,Device-117,Store,Denpasar,Bali,-8.650500000000001,115.23259999999999,Compliant,57,Android 12,Phone,30m,Low
+MDM-118,Device-118,Sales,Balikpapan,Kalimantan Timur,-1.2354,116.8612,Warning,58,Android 13,Tablet,45m,Medium
+MDM-119,Device-119,Warehouse,Manado,Sulawesi Utara,1.5148000000000001,124.88210000000001,Non-Compliant,59,Android 14,Phone,60m,High
+MDM-120,Device-120,Store,Jakarta,DKI Jakarta,-6.1754,106.8272,Compliant,60,Android 11,Tablet,0m,Low
+MDM-121,Device-121,Sales,Bandung,Jawa Barat,-6.907500000000001,107.62910000000001,Warning,61,Android 12,Phone,15m,Medium
+MDM-122,Device-122,Warehouse,Surabaya,Jawa Timur,-7.237500000000001,112.7721,Non-Compliant,62,Android 13,Tablet,30m,High
+MDM-123,Device-123,Store,Medan,Sumatera Utara,-3.5652000000000004,98.7022,Compliant,63,Android 14,Phone,45m,Low
+MDM-124,Device-124,Sales,Makassar,Sulawesi Selatan,-5.1077,119.4727,Warning,64,Android 11,Tablet,60m,Medium
+MDM-125,Device-125,Warehouse,Semarang,Jawa Tengah,-6.9667,110.4167,Non-Compliant,65,Android 12,Phone,0m,High
+MDM-126,Device-126,Store,Palembang,Sumatera Selatan,-2.9809,104.76660000000001,Compliant,66,Android 13,Tablet,15m,Low
+MDM-127,Device-127,Sales,Denpasar,Bali,-8.650500000000001,115.23259999999999,Warning,67,Android 14,Phone,30m,Medium
+MDM-128,Device-128,Warehouse,Balikpapan,Kalimantan Timur,-1.2354,116.8612,Non-Compliant,68,Android 11,Tablet,45m,High
+MDM-129,Device-129,Store,Manado,Sulawesi Utara,1.5148000000000001,124.88210000000001,Compliant,69,Android 12,Phone,60m,Low
+MDM-130,Device-130,Sales,Jakarta,DKI Jakarta,-6.1754,106.8272,Warning,70,Android 13,Tablet,0m,Medium
+MDM-131,Device-131,Warehouse,Bandung,Jawa Barat,-6.907500000000001,107.62910000000001,Non-Compliant,71,Android 14,Phone,15m,High
+MDM-132,Device-132,Store,Surabaya,Jawa Timur,-7.237500000000001,112.7721,Compliant,72,Android 11,Tablet,30m,Low
+MDM-133,Device-133,Sales,Medan,Sumatera Utara,-3.5652000000000004,98.7022,Warning,73,Android 12,Phone,45m,Medium
+MDM-134,Device-134,Warehouse,Makassar,Sulawesi Selatan,-5.1077,119.4727,Non-Compliant,74,Android 13,Tablet,60m,High
+MDM-135,Device-135,Store,Semarang,Jawa Tengah,-6.9667,110.4167,Compliant,75,Android 14,Phone,0m,Low
+MDM-136,Device-136,Sales,Palembang,Sumatera Selatan,-2.9809,104.76660000000001,Warning,76,Android 11,Tablet,15m,Medium
+MDM-137,Device-137,Warehouse,Denpasar,Bali,-8.650500000000001,115.23259999999999,Non-Compliant,77,Android 12,Phone,30m,High
+MDM-138,Device-138,Store,Balikpapan,Kalimantan Timur,-1.2354,116.8612,Compliant,78,Android 13,Tablet,45m,Low
+MDM-139,Device-139,Sales,Manado,Sulawesi Utara,1.5148000000000001,124.88210000000001,Warning,79,Android 14,Phone,60m,Medium
+MDM-140,Device-140,Warehouse,Jakarta,DKI Jakarta,-6.1754,106.8272,Non-Compliant,80,Android 11,Tablet,0m,High
+MDM-141,Device-141,Store,Bandung,Jawa Barat,-6.907500000000001,107.62910000000001,Compliant,81,Android 12,Phone,15m,Low
+MDM-142,Device-142,Sales,Surabaya,Jawa Timur,-7.237500000000001,112.7721,Warning,82,Android 13,Tablet,30m,Medium
+MDM-143,Device-143,Warehouse,Medan,Sumatera Utara,-3.5652000000000004,98.7022,Non-Compliant,83,Android 14,Phone,45m,High
+MDM-144,Device-144,Store,Makassar,Sulawesi Selatan,-5.1077,119.4727,Compliant,84,Android 11,Tablet,60m,Low
+MDM-145,Device-145,Sales,Semarang,Jawa Tengah,-6.9667,110.4167,Warning,85,Android 12,Phone,0m,Medium
+MDM-146,Device-146,Warehouse,Palembang,Sumatera Selatan,-2.9809,104.76660000000001,Non-Compliant,86,Android 13,Tablet,15m,High
+MDM-147,Device-147,Store,Denpasar,Bali,-8.650500000000001,115.23259999999999,Compliant,87,Android 14,Phone,30m,Low
+MDM-148,Device-148,Sales,Balikpapan,Kalimantan Timur,-1.2354,116.8612,Warning,88,Android 11,Tablet,45m,Medium
+MDM-149,Device-149,Warehouse,Manado,Sulawesi Utara,1.5148000000000001,124.88210000000001,Non-Compliant,89,Android 12,Phone,60m,High
+MDM-150,Device-150,Store,Jakarta,DKI Jakarta,-6.1754,106.8272,Compliant,90,Android 13,Tablet,0m,Low
+MDM-151,Device-151,Sales,Bandung,Jawa Barat,-6.907500000000001,107.62910000000001,Warning,91,Android 14,Phone,15m,Medium
+MDM-152,Device-152,Warehouse,Surabaya,Jawa Timur,-7.237500000000001,112.7721,Non-Compliant,92,Android 11,Tablet,30m,High
+MDM-153,Device-153,Store,Medan,Sumatera Utara,-3.5652000000000004,98.7022,Compliant,93,Android 12,Phone,45m,Low
+MDM-154,Device-154,Sales,Makassar,Sulawesi Selatan,-5.1077,119.4727,Warning,94,Android 13,Tablet,60m,Medium
+MDM-155,Device-155,Warehouse,Semarang,Jawa Tengah,-6.9667,110.4167,Non-Compliant,95,Android 14,Phone,0m,High
+MDM-156,Device-156,Store,Palembang,Sumatera Selatan,-2.9809,104.76660000000001,Compliant,96,Android 11,Tablet,15m,Low
+MDM-157,Device-157,Sales,Denpasar,Bali,-8.650500000000001,115.23259999999999,Warning,97,Android 12,Phone,30m,Medium
+MDM-158,Device-158,Warehouse,Balikpapan,Kalimantan Timur,-1.2354,116.8612,Non-Compliant,98,Android 13,Tablet,45m,High
+MDM-159,Device-159,Store,Manado,Sulawesi Utara,1.5148000000000001,124.88210000000001,Compliant,99,Android 14,Phone,60m,Low
+MDM-160,Device-160,Sales,Jakarta,DKI Jakarta,-6.1754,106.8272,Warning,20,Android 11,Tablet,0m,Medium
+MDM-161,Device-161,Warehouse,Bandung,Jawa Barat,-6.907500000000001,107.62910000000001,Non-Compliant,21,Android 12,Phone,15m,High
+MDM-162,Device-162,Store,Surabaya,Jawa Timur,-7.237500000000001,112.7721,Compliant,22,Android 13,Tablet,30m,Low
+MDM-163,Device-163,Sales,Medan,Sumatera Utara,-3.5652000000000004,98.7022,Warning,23,Android 14,Phone,45m,Medium
+MDM-164,Device-164,Warehouse,Makassar,Sulawesi Selatan,-5.1077,119.4727,Non-Compliant,24,Android 11,Tablet,60m,High
+MDM-165,Device-165,Store,Semarang,Jawa Tengah,-6.9667,110.4167,Compliant,25,Android 12,Phone,0m,Low
+MDM-166,Device-166,Sales,Palembang,Sumatera Selatan,-2.9809,104.76660000000001,Warning,26,Android 13,Tablet,15m,Medium
+MDM-167,Device-167,Warehouse,Denpasar,Bali,-8.650500000000001,115.23259999999999,Non-Compliant,27,Android 14,Phone,30m,High
+MDM-168,Device-168,Store,Balikpapan,Kalimantan Timur,-1.2354,116.8612,Compliant,28,Android 11,Tablet,45m,Low
+MDM-169,Device-169,Sales,Manado,Sulawesi Utara,1.5148000000000001,124.88210000000001,Warning,29,Android 12,Phone,60m,Medium
+MDM-170,Device-170,Warehouse,Jakarta,DKI Jakarta,-6.1754,106.8272,Non-Compliant,30,Android 13,Tablet,0m,High
+MDM-171,Device-171,Store,Bandung,Jawa Barat,-6.907500000000001,107.62910000000001,Compliant,31,Android 14,Phone,15m,Low
+MDM-172,Device-172,Sales,Surabaya,Jawa Timur,-7.237500000000001,112.7721,Warning,32,Android 11,Tablet,30m,Medium
+MDM-173,Device-173,Warehouse,Medan,Sumatera Utara,-3.5652000000000004,98.7022,Non-Compliant,33,Android 12,Phone,45m,High
+MDM-174,Device-174,Store,Makassar,Sulawesi Selatan,-5.1077,119.4727,Compliant,34,Android 13,Tablet,60m,Low
+MDM-175,Device-175,Sales,Semarang,Jawa Tengah,-6.9667,110.4167,Warning,35,Android 14,Phone,0m,Medium
+MDM-176,Device-176,Warehouse,Palembang,Sumatera Selatan,-2.9809,104.76660000000001,Non-Compliant,36,Android 11,Tablet,15m,High
+MDM-177,Device-177,Store,Denpasar,Bali,-8.650500000000001,115.23259999999999,Compliant,37,Android 12,Phone,30m,Low
+MDM-178,Device-178,Sales,Balikpapan,Kalimantan Timur,-1.2354,116.8612,Warning,38,Android 13,Tablet,45m,Medium
+MDM-179,Device-179,Warehouse,Manado,Sulawesi Utara,1.5148000000000001,124.88210000000001,Non-Compliant,39,Android 14,Phone,60m,High
+MDM-180,Device-180,Store,Jakarta,DKI Jakarta,-6.1754,106.8272,Compliant,40,Android 11,Tablet,0m,Low
+MDM-181,Device-181,Sales,Bandung,Jawa Barat,-6.907500000000001,107.62910000000001,Warning,41,Android 12,Phone,15m,Medium
+MDM-182,Device-182,Warehouse,Surabaya,Jawa Timur,-7.237500000000001,112.7721,Non-Compliant,42,Android 13,Tablet,30m,High
+MDM-183,Device-183,Store,Medan,Sumatera Utara,-3.5652000000000004,98.7022,Compliant,43,Android 14,Phone,45m,Low
+MDM-184,Device-184,Sales,Makassar,Sulawesi Selatan,-5.1077,119.4727,Warning,44,Android 11,Tablet,60m,Medium
+MDM-185,Device-185,Warehouse,Semarang,Jawa Tengah,-6.9667,110.4167,Non-Compliant,45,Android 12,Phone,0m,High
+MDM-186,Device-186,Store,Palembang,Sumatera Selatan,-2.9809,104.76660000000001,Compliant,46,Android 13,Tablet,15m,Low
+MDM-187,Device-187,Sales,Denpasar,Bali,-8.650500000000001,115.23259999999999,Warning,47,Android 14,Phone,30m,Medium
+MDM-188,Device-188,Warehouse,Balikpapan,Kalimantan Timur,-1.2354,116.8612,Non-Compliant,48,Android 11,Tablet,45m,High
+MDM-189,Device-189,Store,Manado,Sulawesi Utara,1.5148000000000001,124.88210000000001,Compliant,49,Android 12,Phone,60m,Low
+MDM-190,Device-190,Sales,Jakarta,DKI Jakarta,-6.1754,106.8272,Warning,50,Android 13,Tablet,0m,Medium
+MDM-191,Device-191,Warehouse,Bandung,Jawa Barat,-6.907500000000001,107.62910000000001,Non-Compliant,51,Android 14,Phone,15m,High
+MDM-192,Device-192,Store,Surabaya,Jawa Timur,-7.237500000000001,112.7721,Compliant,52,Android 11,Tablet,30m,Low
+MDM-193,Device-193,Sales,Medan,Sumatera Utara,-3.5652000000000004,98.7022,Warning,53,Android 12,Phone,45m,Medium
+MDM-194,Device-194,Warehouse,Makassar,Sulawesi Selatan,-5.1077,119.4727,Non-Compliant,54,Android 13,Tablet,60m,High
+MDM-195,Device-195,Store,Semarang,Jawa Tengah,-6.9667,110.4167,Compliant,55,Android 14,Phone,0m,Low
+MDM-196,Device-196,Sales,Palembang,Sumatera Selatan,-2.9809,104.76660000000001,Warning,56,Android 11,Tablet,15m,Medium
+MDM-197,Device-197,Warehouse,Denpasar,Bali,-8.650500000000001,115.23259999999999,Non-Compliant,57,Android 12,Phone,30m,High
+MDM-198,Device-198,Store,Balikpapan,Kalimantan Timur,-1.2354,116.8612,Compliant,58,Android 13,Tablet,45m,Low
+MDM-199,Device-199,Sales,Manado,Sulawesi Utara,1.5148000000000001,124.88210000000001,Warning,59,Android 14,Phone,60m,Medium
+MDM-200,Device-200,Warehouse,Jakarta,DKI Jakarta,-6.1754,106.8272,Non-Compliant,60,Android 11,Tablet,0m,High
